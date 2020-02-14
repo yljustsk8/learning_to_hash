@@ -7,13 +7,13 @@
     
 - Requirements
     
-    - see `./netquery/requirements.txt`.
+    - See `./netquery/requirements.txt`
     
 - Running the code
 
     - Download the data and unzip it at `./` and reach `./netquery/bio/`;
     
-    - We transfer vector x to tanh(δx) and gradually increase δ(from 1 to b) in order to bring x closer to the hamming space. In the code, we used parameter "beta" to represent δ and b is set to 20 in our experiment.;
+    - We transfer vector x to tanh(δx) and gradually increase δ(from 1 to b) in order to bring x closer to the hamming space. In the code, we used parameter "beta" to represent δ and b is set to 20 in our experiment;
     
     - Run `python train.py --lr 0.001 --beta β --pretrain True` to use the edge data to train the embedding, where β gradually increased from 1 to b-1;
     
