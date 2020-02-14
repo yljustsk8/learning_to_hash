@@ -21,7 +21,7 @@
     
     - Run `python test.py --beta b` to compare the difference between the original and the hashed model. 
 
-- Other informations
+- Other information
 
     - The code is currently maintained by Yinlin Jiang. You can contact me at [yljiang@seu.edu.cn](mailto:yljiang@seu.edu.cn);
     - This code is a part of our full experiment, we are working on to release a more complete version.  
