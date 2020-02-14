@@ -3,11 +3,11 @@
 - Intorduction
 
     - The code is a first implementation of our [paper](https://ieeexplore.ieee.org/abstract/document/8970688) at ICDM 2019, including the train process of BIO data;
-    - Our code is based on [GraphQEmbed](https://github.com/williamleif/graphqembed), you can get the original code and BIO data on that page;
+    - Our code is based on [GraphQEmbed](https://github.com/williamleif/graphqembed), you can get the original code and BIO data on that page.
     
 - Requirements
     
-    - see `./netquery/requirements.txt`
+    - see `./netquery/requirements.txt`.
     
 - Running the code
 
@@ -23,5 +23,5 @@
 
 - Other informations
 
-    - The code is currently maintained by Yinlin Jiang. You can contact me at [yljiang@seu.edu.cn](mailto:yljiang@seu.edu.cn).
+    - The code is currently maintained by Yinlin Jiang. You can contact me at [yljiang@seu.edu.cn](mailto:yljiang@seu.edu.cn);
     - This code is a part of our full experiment, we are working on to release a more complete version.  
