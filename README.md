@@ -7,7 +7,7 @@
     
 - Requirements
     
-    - see `./requirements.txt`
+    - see `./netquery/requirements.txt`
     
 - Running the code
 
